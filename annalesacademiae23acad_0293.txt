@@ -1,0 +1,38 @@
+(83)
+
+(Sect. Ι. Cap. Ι. Art. 143) quodfi puncta B
+et A'' conjungantur, invenitur, fimili modo,
+punctum D, ad quod vis compofita DE, ex
+viribus BC et A''P'' = P''‚ in directione,
+ipsisB G et A''P''parallela, agere debet: haec
+autem vis aequalis est summae virium BC et
+A‘'P''. - Vis DE igitur est vis composita
+virium P, P', P'‘‚ aequalis earum summae
+P -Ι- P' -Ι- Ρ”; atque agens in directione,
+quae ipsarum directionibus parallela est, et fic
+porro. - Hinc patet igitur, quomodo Geome-
+trice inveniantur directio et magnitudo vis com-
+pofitae2, atque exinde habemusz
+
+10. Directio vis compofitae parallelo est
+directionibus virtum componentium.
+
+2⁰. Ejus intensitas aequalis est summae in-
+tensitatum'virium componentium3 td est, si R
+denotat vim compositam, hahemus:
+
+R = P ÷ P‘ 4 P'' -Ι- P'‘' -1- caet. (9).
+
+Si igitur aequilibrium sponte non datur, con- ‚
+stituitur, fi vis composita agit in directione,
+contraria directionibus virium agentium.
+“ V. Punctum , ad quod vis composita applican-
+da est, geometrice inveniri quidem potcst3 sed
+ejus inventio facilius instituitur, fi rem Analyti-
+ce confideramuS, sequenti modo:
+
+Sit XY (Fig. 26.) planum, quod ratione
+directionum virium quocunque modo pontum
+
+I 2 fit3
+
